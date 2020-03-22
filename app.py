@@ -1,0 +1,1 @@
+print ("siedze w  domu")
